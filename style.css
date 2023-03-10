@@ -1,0 +1,14 @@
+body {
+    font-family: verdana;
+}
+
+#profile-image {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.table-style {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
